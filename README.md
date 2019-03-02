@@ -56,6 +56,9 @@ other inputs are used by the tracking sites to collect data. A user profile is c
 network of sites, the created user profiles are helpful in reaching the targeted audience to advertise. The targeted ads will fetch more user interest, the publisher (or seller) can charge a premium for these ads over
 random advertising or ads based on the context of a site.
 
+**Our Lab (My and Shir)**<br>
+Description: The objective of this lab is for students to get familiar with the concepts of cryptography and key-encryption. In this lab we will learn to generate a simple key, encrypt a folder of files in the target’s computer and decrypt it, using python scripts. After finishing this lab, students should be familiar with simple cryptography definitions and get a little bit of experience on encrypting and decrypting themselves.
+
 ## Key Learnings
 
 - These attack labs gives us the idea of fundamental principles of computer system security, including authentication, access control,
